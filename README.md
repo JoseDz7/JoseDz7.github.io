@@ -23,9 +23,6 @@
 
 </details>
 
-# Página :
-![Image text](https://github.com/piratainformatico2/piratainformatico2.github.io/blob/main/assets/img/Screenshot_20211016-213434.png)
-
 ~~~
 https://piratainformatico2.github.io/
 ~~~
